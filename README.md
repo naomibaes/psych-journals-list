@@ -22,12 +22,15 @@ Footnote:
 - #1: Link to PubMed journals (accessed April 2024): https://ftp.ncbi.nih.gov/pubmed/J_Medline.txt
 - #2: Link to SciMago classified psychology journals (accessed April 2024): https://www.scimagojr.com/journalrank.php?area=3200  
 
+```text
 Example of pubmed journal chunks
 
-JrId: 2 \\
-JournalTitle: AANA journal \\
-MedAbbr: AANA J \\
-ISSN (Print): 0094-6354 \\
-ISSN (Online): 2162-5239 \\
-IsoAbbr: AANA J \\
-NlmId: 0431420 \\
+JrId: 2
+JournalTitle: AANA journal
+MedAbbr: AANA J
+ISSN (Print): 0094-6354
+ISSN (Online): 2162-5239
+IsoAbbr: AANA J
+NlmId: 0431420
+```
+
