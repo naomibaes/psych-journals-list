@@ -3,6 +3,7 @@ Jupyter notebook to get the SciMago-indexed psychology journals to filter PubMed
 # What it does:
 - From the unique list of 1,376 SciMago-indexed psychology journals, the jupyter notebook matches journal titles from this list with the 53,349 journals in PubMed (#1), yielding 583 SciMago classified journals (#2). There were no cases where the same journal id was matched with different subject categories. 
 - The final key file of this script (renamed to "psy_journals_list.csv") is used to filter parsed PubMed data in https://github.com/Zendelo/PubMedParse to get a corpus of Pubmed psychology abstracts.
+- - *Note*: Scripts can be adapted to get a relevant journal list for any scientific domain of interest.
 
 # More detail:
 Note: 404 rows where duplicates appear as the same journal is indexed in more than one SciMago category (based on Sourceid)/ 
